@@ -1,0 +1,10 @@
+.result div{
+    height:250px;
+    width:230px;
+    margin:20px;
+}
+
+.result div img {
+    height:200px;
+    width:200px;
+}
